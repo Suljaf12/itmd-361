@@ -4,7 +4,6 @@ body {
 }
 #title {
 	margin: auto;
-	width: 100%;
 	color: blue;
 	text-align: center;
 	font-size: medium;
@@ -15,7 +14,7 @@ body {
 #planets th,
 #planets td {
 	border: 1px solid;
-	width: 100%;
+	width: 70%;
 	border-collapse: collapse;
 	text-align: center;
 	vertical-align: baseline;
